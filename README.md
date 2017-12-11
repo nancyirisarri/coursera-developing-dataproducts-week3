@@ -1,2 +1,4 @@
-# coursera-developing-dataproducts-week3
-The slides are hosted at (https://nancyirisarri.github.io/coursera-developing-dataproducts-week3/).
+# Coursera Developing Dataproducts Week 3 Assignment
+The slides are hosted at (https://nancyirisarri.github.io/coursera-developing-dataproducts-week3/#1). I used data from the Atlas3D survey, which observed ~720 galaxies. This data was also used in my master's thesis. In the plot, the distribution of the galaxies in the sky can be seen. Sky coordinates use right ascension and declination instead of longitude and latitude. 
+
+Galaxies can be classified according to their appearance or by parameters such as the presence of a disk of stars, compactness of spiral arms, or smoothness of the light distribution. In the Atlas3D survey, the galaxies were classified into ellipticals and spirals by visual inspection. In the plot, the color bar shows the **T** type, which is used to classify galaxies into elliptical (T $$lte$$ −3.5) and spiral (−3.5 $$lt$$ T $$lte$$ −0.5).
